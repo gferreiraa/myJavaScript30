@@ -11,3 +11,5 @@ Here the list of projects created:
 - 04 - Array Cardio Day 1 - Exercises about Arrays - Map, Filter, Sort, Reduce
 
 - 05 - Flex Panels Image Gallery - [DEMO](https://codepen.io/gferreiraa/pen/YBPVyW)
+
+- 06 - Type Ahead - [DEMO](https://codepen.io/gferreiraa/pen/NoqXYR)
