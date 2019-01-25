@@ -13,3 +13,5 @@ Here the list of projects created:
 - 05 - Flex Panels Image Gallery - [DEMO](https://codepen.io/gferreiraa/pen/YBPVyW)
 
 - 06 - Type Ahead - [DEMO](https://codepen.io/gferreiraa/pen/NoqXYR)
+
+- 07 - Array Cardio Day 2 - Exercises about Array
