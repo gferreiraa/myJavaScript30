@@ -14,4 +14,6 @@ Here the list of projects created:
 
 - 06 - Type Ahead - [DEMO](https://codepen.io/gferreiraa/pen/NoqXYR)
 
-- 07 - Array Cardio Day 2 - Exercises about Array
+- 07 - Array Cardio Day 2 - Exercises about Array - Find, Spread Operator, 
+
+- 08 - Fun with HTML 5 Canvas - [DEMO](https://codepen.io/gferreiraa/pen/zeqKBq)
