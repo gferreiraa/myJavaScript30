@@ -19,3 +19,5 @@ Here the list of projects created:
 - 08 - Fun with HTML 5 Canvas - [DEMO](https://codepen.io/gferreiraa/pen/zeqKBq)
 
 - 09 - Dev Tools Domination - Exercises about Dev Tools - Browser API
+
+- 10 - Hold Shift and Check Checkboxesn - [DEMO](https://codepen.io/gferreiraa/pen/NorVyP)
