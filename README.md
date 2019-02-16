@@ -24,4 +24,4 @@ Here the list of projects created:
 
 - 11 - Custom HTML5 Video Player - Exercise about Video Player with HTML 5
 
-- 12 - Key Sequence Detection (KONAMI CODE) - Exercise Easter Egg :)
+- 12 - Key Sequence Detection (KONAMI CODE) - Exercise Easter Egg :grin:
