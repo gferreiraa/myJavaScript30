@@ -21,3 +21,7 @@ Here the list of projects created:
 - 09 - Dev Tools Domination - Exercises about Dev Tools - Browser API
 
 - 10 - Hold Shift and Check Checkboxesn - [DEMO](https://codepen.io/gferreiraa/pen/NorVyP)
+
+- 11 - Custom HTML5 Video Player - Exercise about Video Player with HTML 5
+
+- 12 - Key Sequence Detection (KONAMI CODE) - Exercise Easter Egg :)
