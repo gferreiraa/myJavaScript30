@@ -4,7 +4,7 @@ This is my journey with Javacript, over these 30 days I'll created one a new pro
 
 Here the list of projects created:
 
-- 01 - JavaScript Drum Kit - [DEMO]()
+- 01 - JavaScript Drum Kit - Exercise with Event Listener
 
 - 02 - JS and CSS Clock - [DEMO](https://codepen.io/gferreiraa/pen/omNbgR)
 
